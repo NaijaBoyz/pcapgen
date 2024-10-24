@@ -1,0 +1,4 @@
+extract_all_sessions: true
+log_volume_path: "/path/to/log_volume"
+pcap_volume_path: "/path/to/pcap_volume"
+sessions_to_extract: []  
